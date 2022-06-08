@@ -7,8 +7,8 @@ function addFunc(num1: number, num2: number) {
   return num1 + num2;
 }
 
-const number1: number = 4;
-const number2: number = 2;
+const number1 = 4;
+const number2 = 2;
 
 const result: number = addFunc(number1, number2);
 
