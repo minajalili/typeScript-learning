@@ -18,3 +18,5 @@ function add(
 console.log(add(5, 10, "is-number"));
 
 console.log(add("wel", "come", "is-text"));
+
+export default {}

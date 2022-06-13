@@ -13,3 +13,5 @@ console.log(add(5, 10));
 console.log(add("wel", "come"));
 
 console.log(add(5, "come"));
+
+export default {};

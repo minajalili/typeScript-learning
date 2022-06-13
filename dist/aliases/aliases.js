@@ -1,5 +1,5 @@
 "use strict";
-exports.__esModule = true;
+Object.defineProperty(exports, "__esModule", { value: true });
 function add(input1, input2, resultType) {
     if ((typeof input1 === "number" && typeof input2 === "number") ||
         resultType === "is-number") {
@@ -14,4 +14,4 @@ function add(input1, input2, resultType) {
 }
 console.log(add(5, 10, "is-number"));
 console.log(add("wel", "come", "is-text"));
-exports["default"] = {};
+exports.default = {};
